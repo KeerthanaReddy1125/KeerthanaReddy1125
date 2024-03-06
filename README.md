@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @KeerthanaReddy1125
+
+ ## Hello there!👋 
+ # I am Keerthana Kudumula
 - 📚 Graduate Computer Science student at University of Bridgeport, Connecticut.
 - 💼 Worked for MagTech Corp, NewMark showcasing new insights...
 - 📫 You can reach me [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25)..
