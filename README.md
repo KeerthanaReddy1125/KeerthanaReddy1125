@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi There...<br>I'm Keerthana Kudumula, a Tech Enthusiast with passion in software Engineering.<br>Currently learning: Generative AI for Software Development.<br>Fun Fact: The Firefox logo isn't a fox 
+Hi There...<br>I'm Keerthana Kudumula, a Tech Enthusiast with passion in software Engineering.<br>Currently learning: Generative AI for Software Development.<br>Fun Fact: The Firefox logo isn't a fox....!
 
 
 ## 🌐 Socials:
