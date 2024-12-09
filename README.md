@@ -1,7 +1,7 @@
 
 # 💫 About Me
 
-### Hi There! 👋  
+### Hi There..! 👋  
 I'm **Keerthana Kudumula**, a **Tech Enthusiast** with a passion for **Software Engineering**.  
 - 🚀 **Currently Learning**: Generative AI for Software Development  
 - 🌟 **Fun Fact**: The Firefox logo isn't a fox, it's a red panda! 🦝
